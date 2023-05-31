@@ -7,7 +7,7 @@ body {
   display: flex;
   min-width: 320px;
   min-height: 100vh;
-  background: linear-gradient(to top, #2c5d63bc 0%, white 100%);
+  background: linear-gradient(to right, rgb(182, 244, 146), rgb(51, 139, 147));
 }
 
 h1 {
